@@ -1,0 +1,30 @@
+{
+  "name": "karl-mean-demo",
+  "version": "1.0.0",
+  "description": "an intermediate mean demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlsanford/karl-mean-demo.git"
+  },
+  "keywords": [
+    "mean",
+    "angular",
+    "node",
+    "mondgodb",
+    "express",
+    "intermediate"
+  ],
+  "author": "karl sanford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlsanford/karl-mean-demo/issues"
+  },
+  "homepage": "https://github.com/karlsanford/karl-mean-demo#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
